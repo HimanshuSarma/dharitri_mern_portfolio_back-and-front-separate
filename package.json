@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^9.10.0",
+    "uuid": "^8.3.2"
+  }
+}

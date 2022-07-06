@@ -1,0 +1,11 @@
+.payment-page-whole-screen-wrapper {
+    width: 100%;
+}
+
+.payment-page-details-wrapper {
+    /* border: 1px solid rgba(0, 0, 0, 0.5); */
+}
+
+.payment-page-secondary-header {
+    margin-bottom: 0.65rem;
+}
